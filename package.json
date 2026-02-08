@@ -18,5 +18,8 @@
     "start": "node ./src/server.js",
     "pretest": "eslint ./src --fix",
     "test": "echo \"Tests complete!\""
+  },
+  "devDependencies": {
+    "eslint": "^10.0.0"
   }
 }
